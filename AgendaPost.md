@@ -1,4 +1,4 @@
-## The next General Meeting will be held on the **starting at 8pm** .
+## The next General Meeting will be held on [[date]] **starting at 8pm** .
 
 If you know you will be unable to attend the meeting, please complete to proxy form in the member portal using this link: [[[link]]]([[link]])
 
